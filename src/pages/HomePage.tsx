@@ -1,8 +1,8 @@
-import Header from "../components/Header"
+import Topic from "../components/Topic"
 
 const HomePage = () => {
 return(
-	<h1>hello</h1>
+	<Topic/>
 )
 }
 
